@@ -1,6 +1,6 @@
-# Scalable To-Do List Application Deployment on Kubernetes
+# To-Do List Application Deployment on Kubernetes
 
-This repository contains all necessary files to deploy and manage a scalable To-Do List web application using Kubernetes. The application is containerized using Docker and deployed on a Kubernetes cluster. It supports features like auto-scaling, rolling updates, persistent storage, logging, and self-healing.
+This repository contains all necessary files to deploy and manage a To-Do List web application using Kubernetes. The application is containerized using Docker and deployed on a Kubernetes cluster. It supports features like auto-scaling, rolling updates, persistent storage, logging, and self-healing.
 
 ## Project Overview
 
